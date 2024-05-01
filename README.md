@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<pre align="center">Spatial Data Infrastructure for Planetary Missions</pre>
+<pre align="center">Spatial Data Infrastructure</pre>
 
 <span style="display:block;text-align:center">![Example](/documentation/images/Full_Example.png)</span>
 
